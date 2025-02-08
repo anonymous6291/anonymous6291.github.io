@@ -1,4 +1,4 @@
-const message = "Hello! My name is Anish Kumar Shaw. I am not expert in any programming language but I always try to learn new things. I believe in multitasking,consistency and perfection. I have made few repositories in Github and solved few questions in Leetcode. You can visit my profiles using the links given below.";
+const message = "Hello! My name is Anish Kumar Shaw. I am not expert in any programming language but I always try to learn new things. I believe in multitasking,consistency and perfection. I have created a few repositories on GitHub and solved a few questions on Leetcode. You can visit my profiles using the links given below.";
 const alphaDelay = 20;
 const spaceDelay = 80;
 const infoLabel = document.getElementById("information");
