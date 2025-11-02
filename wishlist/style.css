@@ -1,0 +1,70 @@
+body {
+    display: flex;
+    justify-content: center;
+    background-image: url(./background.gif);
+    image-rendering: optimizeQuality;
+    background-repeat: no-repeat;
+    display: flex;
+    background-size: cover;
+    flex-direction: column;
+}
+
+#image {
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+    padding-bottom: 5%;
+}
+
+#information {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-family: "Courier New", Courier, monospace;
+    color: green;
+}
+
+#details {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    font-family: "Courier New", Courier, monospace;
+    color: green;
+}
+
+button {
+    font-family: "Courier New", Courier, monospace;
+    background-color: yellow;
+    color: green;
+    width: 90px;
+}
+button:hover {
+    font-weight: bolder;
+    background-color: violet;
+}
+
+#info {
+    padding-left: 5%;
+}
+
+a {
+    color: violet;
+}
+
+a:hover {
+    color: orange;
+}
+
+a:visited {
+    color: yellow;
+}
+
+.note {
+    color: orange;
+    display: flex;
+    font-family: "Courier New", Courier, monospace;
+    padding-top: 10px;
+    justify-content: center;
+}
